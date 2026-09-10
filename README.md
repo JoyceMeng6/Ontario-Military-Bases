@@ -1,8 +1,8 @@
 ## Ontario-Military-Bases
 This personal project maps the locations of the Ontario military installations that are currently active, including proximity analysis to the Canada &amp; U.S. Border.
 
-Date Started: August 2026
-Software & Skills Used: Microsoft Excel, ArcGIS Pro, ArcGIS Online, Arcade, Data Cleaning, Coordinate Conversion
+[Date Started:] August 2026
+[Software & Skills Used:] Microsoft Excel, ArcGIS Pro, ArcGIS Online, Arcade, Data Cleaning, Coordinate Conversion
 
 # Process:
 - Sourced geographic coordinates from Wikipedia.
