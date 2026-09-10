@@ -1,3 +1,7 @@
+## Joyce Meng
+
+Hi! I'm a 2nd year Geospatial Data Science student at the University of Waterloo.
+
 # Ontario-Military-Bases
 This personal project maps the locations of the Ontario military installations that are currently active, including proximity analysis to the Canada &amp; U.S. Border.
 [Date Started]: August 2026
